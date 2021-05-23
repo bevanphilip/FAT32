@@ -21,9 +21,7 @@
 // THE SOFTWARE.
 
 /*
-Group members:
-1) Karun Dawadi
-2) Prajwal Rana
+Bevan Philip 1001527799
 */
 
 #define _GNU_SOURCE
